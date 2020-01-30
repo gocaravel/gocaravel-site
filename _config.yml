@@ -1,7 +1,3 @@
 title: Caravel
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
-
-header_feature_image: assets/img/pexels/triangular.jpeg
 
 remote_theme: aksakalli/jekyll-doc-theme@gh-pages
