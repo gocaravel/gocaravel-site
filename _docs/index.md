@@ -27,12 +27,17 @@ Services primarily compete with each other based on restaurant selection, as
 platforms are unable to compete on price. Many platforms have a 'membership'
 option, where for a monthly fee, customers get free delivery on that platform.
 Customers are still charged service fees, however [4]. Services are
-also unable to compete on price primarily due to their largest cost, food
+unable to compete on price primarily due to their largest cost, food
 couriers, being common across all platforms. If couriers and drivers were
 required, by law, to be paid more for their services, the price of food
 delivery would increase [5].
 
 ### An Autonomous Solution for Food Delivery
+
+It is apparent a need exists for a method to deliver food from restaurants to
+customers without needing a courier. A method that circumvents a courier would
+allow a platform to undercut their competitors on what customers care most
+about: cost, and to make food delivery cheaper and more accessible.
 
 ### References
 
