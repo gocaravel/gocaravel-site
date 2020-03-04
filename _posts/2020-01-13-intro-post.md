@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World!"
+title:  "Welcome to the Caravel Project!"
 date:   2020-01-13 15:41:09
 author: Caravel Team
 ---

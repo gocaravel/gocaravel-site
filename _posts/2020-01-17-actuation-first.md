@@ -2,7 +2,7 @@
 layout: post
 title:  "Lateral Actuation"
 date:   2020-01-17 11:09:12
-author:  Stephen Jia
+author:  Caravel Team
 ---
 
 We were able to get lateral actuation on the car. It was quite an arduous process!
