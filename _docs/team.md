@@ -55,10 +55,10 @@ permalink: /docs/team/
 
 </div>
 
-###Oles Andrienko
+### Oles Andrienko
 
-###Wesley Yue
+### Wesley Yue
 
-###Stephen Jia
+### Stephen Jia
 
-###Richard Li
+### Richard Li
