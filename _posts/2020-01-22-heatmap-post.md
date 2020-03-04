@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Heatmap Label Generation for Prediction Network"
+title:  "Heatmap Label Generation"
 date:   2020-01-22 5:28:16
 author:  Caravel Team
 ---
