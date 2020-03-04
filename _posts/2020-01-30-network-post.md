@@ -16,7 +16,7 @@ However, a standard segmentation network would not suffice. We modified the stan
 * Updating the training pipeline to use Regression based losses.
 
 <p align = 'center'>
-<img src = '/assets/img/test-network-output.gif' width = '720px'>
+<img src = '/assets/img/test-network-output.gif' width = '320px'>
 </p>
 
 <p align = 'center'><i>
