@@ -1,13 +1,20 @@
 ---
-title: Customization
+title: Team
 permalink: /docs/team/
 ---
 
-This template uses [bootstrap-sass](https://github.com/twbs/bootstrap-sass) along with [bootwatch themes](https://bootswatch.com/3).
-You can create your own theme by writing your own `sass` files.
+<div class="row">
+  
+  <div class="col-md-6">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="#cerulean/"><img src="https://bootswatch.com/3/cerulean/thumbnail.png" class="img-responsive" alt="Cerulean"></a>
+      </div>
+      <div class="caption">
+        <h3>Cerulean</h3>
+        <p>A calm blue sky</p>
+      </div>
+    </div>
+  </div>
 
-Create a new a theme folder like `_sass/bootwatch/custom` and set your `bootwatch` variables in `_config.yml` to `custom`:
-
-```yaml
-bootwatch: custom
-```
+</div>
