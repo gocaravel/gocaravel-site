@@ -8,7 +8,7 @@ permalink: /docs/team/
   <div class="col-sm-3">
     <div class="thumbnail">
       <div class="image">
-        <a href="#cerulean/"><img src="/assets/img/oles.jpg" class="img-responsive" alt="Oles"></a>
+        <a href="#oles-andrienko/"><img src="/assets/img/oles.jpg" class="img-responsive" alt="Oles"></a>
       </div>
       <div class="caption">
         <h3>Cerulean</h3>
@@ -55,10 +55,10 @@ permalink: /docs/team/
 
 </div>
 
-### Oles Andrienko
+###Oles Andrienko
 
-### Wesley Yue
+###Wesley Yue
 
-### Stephen Jia
+###Stephen Jia
 
-### Richard Li
+###Richard Li
