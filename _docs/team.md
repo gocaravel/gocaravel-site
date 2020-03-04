@@ -8,7 +8,7 @@ permalink: /docs/team/
   <div class="col-sm-3">
     <div class="thumbnail">
       <div class="image">
-        <img src="/assets/img/oles.jpg" class="img-responsive" alt="Oles">
+        <img style="height:160px;" src="/assets/img/oles.jpg" class="img-responsive" alt="Oles">
       </div>
       <div class="caption">
         <p>Oles Andrienko</p>
@@ -19,7 +19,7 @@ permalink: /docs/team/
   <div class="col-sm-3">
     <div class="thumbnail">
       <div class="image">
-        <img src="/assets/img/wesley.jpeg" class="img-responsive" alt="Wesley">
+        <img style="height:160px;" src="/assets/img/wesley.jpeg" class="img-responsive" alt="Wesley">
       </div>
       <div class="caption">
         <p>Wesley Yue</p>
@@ -30,7 +30,7 @@ permalink: /docs/team/
   <div class="col-sm-3">
     <div class="thumbnail">
       <div class="image">
-        <img src="/assets/img/stephen.png" class="img-responsive" alt="Stephen">
+        <img style="height:160px;" src="/assets/img/stephen.png" class="img-responsive" alt="Stephen">
       </div>
       <div class="caption">
         <p>Stephen Jia</p>
@@ -41,7 +41,7 @@ permalink: /docs/team/
   <div class="col-sm-3">
     <div class="thumbnail">
       <div class="image">
-        <img src="/assets/img/richard.jpeg" class="img-responsive" alt="Richard Li">
+        <img style="height:160px;" src="/assets/img/richard.jpeg" class="img-responsive" alt="Richard Li">
       </div>
       <div class="caption">
         <p>Richard Li</p>
@@ -51,10 +51,10 @@ permalink: /docs/team/
 
 </div>
 
-### Oles Andrienko
+#### Oles Andrienko
 
-### Wesley Yue
+#### Wesley Yue
 
-### Stephen Jia
+#### Stephen Jia
 
-### Richard Li
+#### Richard Li
