@@ -5,7 +5,7 @@ permalink: /docs/team/
 
 <div class="row">
   
-  <div class="col-md-6">
+  <div class="col-sm-4">
     <div class="thumbnail">
       <div class="image">
         <a href="#cerulean/"><img src="https://bootswatch.com/3/cerulean/thumbnail.png" class="img-responsive" alt="Cerulean"></a>
@@ -16,5 +16,13 @@ permalink: /docs/team/
       </div>
     </div>
   </div>
+
+  <div class="col-sm-8">
+    <p>
+
+    Test text
+
+    </p>
+ </div>
 
 </div>
