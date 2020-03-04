@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World!"
+title:  "Lateral Actuation"
 date:   2020-01-17 11:09:12
 author:  Stephen Jia
 ---
