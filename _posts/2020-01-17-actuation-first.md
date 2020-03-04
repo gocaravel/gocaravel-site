@@ -8,7 +8,13 @@ author:  Caravel Team
 We were able to get lateral actuation on the car. It was quite an arduous process!
 Here's a video of me steering the car with a joystick:
 
-![Joystick Actuation](/assets/img/actuation.gif)
+<p align = 'center'>
+<img src = '/assets/img/actuation.gif' width = '420px'>
+</p>
+
+<p align = 'center'><i>
+Example showing joystick actuation of the vehicle.
+</i></p>
 
 To accomplish actuation, a
 [comma.ai panda](https://comma.ai/shop/products/panda-obd-ii-dongle) was
