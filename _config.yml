@@ -16,7 +16,7 @@ defaults:
     type: docs
   values:
     layout: docs
-    sectionid: about
+    sectionid: docs
     seo:
       type: "WebPage"
 
