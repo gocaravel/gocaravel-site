@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stabilizing Network Outputs"
+title:  "Rejecting Outliers"
 date:   2020-03-03 10:20:02
 author:  Caravel Team
 ---
@@ -51,7 +51,10 @@ frame.
 <p align = 'center'><i>
 
 Polyline fitting with outlier rejection of Lanenet detections for the right
-lane line.  The blue regions show the pixels that the algorithm rejected.
+lane line.  The green regions show the pixels that have passed the outlier
+rejection algorithm. Note how much less pixels are used compared to the raw
+polyline fit.
+
 </i></p>
 
 Towards the end of the sequence, the polyline completely fits to the
