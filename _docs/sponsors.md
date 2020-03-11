@@ -3,11 +3,23 @@ title: Sponsors
 permalink: /docs/sponsors/
 ---
 
-This template uses [bootstrap-sass](https://github.com/twbs/bootstrap-sass) along with [bootwatch themes](https://bootswatch.com/3).
-You can create your own theme by writing your own `sass` files.
+We would like to thank and recognize the following organizations for providing
+us with support thoughout the development process.
 
-Create a new a theme folder like `_sass/bootwatch/custom` and set your `bootwatch` variables in `_config.yml` to `custom`:
+## GM Canada
 
-```yaml
-bootwatch: custom
-```
+[Official Site](https://www.gm.ca/en/home.html)
+
+We would like to thank GM for selecting us to receive the GM Innovation Award!
+
+## Lucid Vision Labs
+
+[Official Site](https://thinklucid.com/)
+
+We would like to thank Lucid for providing us with a camera!
+
+## ClickUp
+
+[Official Site](https://clickup.com/)
+
+We would like to thank Clickup for providing us with free access to their paid tier!
