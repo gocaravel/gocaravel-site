@@ -45,7 +45,7 @@ outputs are not ideal, the fitted polyline will vary wildly from frame to
 frame.
 
 <p align = 'center'>
-<img src = '/assets/img/pre_tracking.gif' width = '256'>
+<img src = '/assets/img/post_filter.gif' width = '256'>
 </p>
 
 <p align = 'center'><i>
