@@ -19,7 +19,7 @@ detection can fluctuate quite wildly on a frame-by-frame basis and that
 it will not represent the ground truth well at times.
 
 <p align = 'center'>
-<img src = '/assets/img/pre_tracking.gif' width = '420px'>
+<img src = '/assets/img/pre_tracking.gif' width = '256px'>
 </p>
 
 <p align = 'center'><i>
@@ -45,7 +45,7 @@ outputs are not ideal, the fitted polyline will vary wildly from frame to
 frame.
 
 <p align = 'center'>
-<img src = '/assets/img/pre_tracking.gif' width = '420px'>
+<img src = '/assets/img/pre_tracking.gif' width = '256'>
 </p>
 
 <p align = 'center'><i>
