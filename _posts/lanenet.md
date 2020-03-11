@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Introducing Lanenet"
+date:   2020-02-05 10:20:02
+author:  Caravel Team
+---
+
+We've begun experimenting with LaneNet, a segmentation model that detects lane
+lines in an image. We hope that outputs from this model will reinforce the
+outputs from our current perception model, enhancing the system's confidence of
+where the path of the vehicle should lie.
+
+Similar to our previous model, NavNet, LaneNet takes in an image and produces
+two heatmaps; one for the right lane line and one for the left lane line. Each
+heat map contains the probability that each pixel is a right or left lane line
+respectively.
+
+Since there is a stronger correlation between image features and lane line
+location, we hope that LaneNet will provide more consistent output compared to
+NavNet, which associates image features with the future path of the car. 
+
+However, there are a few downsides to LaneNet compared to NavNet. The first is
+that it is a bigger and complex model, so it will not be able to run as fast as
+LaneNet. This leaves a lot less margin for the runtime of postprocessing
+algorithms. Another big disadvantage of LaneNet is that we can't generate training
+labels automatically like we do for NavNet.
+
+Because of this, we used [Berkeley DeepDrive's scalabel tool](https://scalabel.ai)
+to set up our own labeling server. Here's a screenshot of it in action below.
+
+<p align = 'center'>
+<img src = '/assets/img/tool.gif' width = '720px'>
+</p>
+
+<p align = 'center'><i>
+Left shows the image frame with superimposed pose data. Right shows the generated heatmap for training.
+</i></p>
+
+Since collecting and labeling data is such an arduous task, we do not have the
+bandwidth to construct our own comprehensive dataset. Therefore, we pre-train
+the model on the 
+[TuSimple Lane Dataset](https://github.com/TuSimple/tusimple-benchmark/tree/master/doc/lane_detection)
+to help the model learn a prior.
